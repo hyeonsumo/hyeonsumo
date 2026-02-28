@@ -6,7 +6,7 @@
 
 </div>
 
-## Skill Stack
+## 🧰 Tech Stack
 Language to engineering: end-to-end data analysis stack.
 
 ### Language
