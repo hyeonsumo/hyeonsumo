@@ -68,12 +68,3 @@
     <td width="50%"></td>
   </tr>
 </table>
-
-## 📅 Contribution Activity
-<div align="center">
-
-[![GitHub Contribution Chart](https://ghchart.rshah.org/1C227A/hyeonsumo)](https://github.com/hyeonsumo)
-
-![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hyeonsumo&theme=github)
-
-</div>
