@@ -1,11 +1,9 @@
 ﻿<div align="center">
 
 <h3>Hi, I'm Hyeonsu Mo.</h3>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzZhaDQ3aXowZm13NmRkOWxkM3VqMHAwd2Y0OW0wN2RiOWgyYmN0NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPsx2VAYAgEHC12/giphy.gif" width="760" alt="working gif" />
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=2800&pause=999999&color=1C227A&center=true&vCenter=true&width=560&lines=I+am+working+toward+becoming+a+full-stack" alt="typing navy"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&duration=2800&pause=999999&color=F0B338&center=true&vCenter=true&width=220&lines=data+analyst." alt="typing gold"/>
-</p>
+<img src="./assets/download.gif" width="760" alt="working gif" />
+<br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3200&pause=900&color=1C227A&center=true&vCenter=true&width=900&lines=I'm+studying+toward+becoming+a+full-stack+data+analyst." alt="typing intro"/>
 
 </div>
 
