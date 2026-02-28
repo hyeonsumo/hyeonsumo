@@ -27,9 +27,12 @@
 ## Featured Projects
 | Project | Description | Tech |
 |---|---|---|
-| [project-1](https://github.com/hyeonsumo/project-1) | 문제를 정의하고 실제 사용 가능한 결과물로 만든 프로젝트 | Python, FastAPI |
-| [project-2](https://github.com/hyeonsumo/project-2) | 자동화/데이터 파이프라인 중심 프로젝트 | Python, MySQL, Docker |
-| [project-3](https://github.com/hyeonsumo/project-3) | 서비스 운영 관점(성능/안정성) 개선 프로젝트 | Node.js, SQL |
+| [ieee-cis-fraud-detection-pjt](https://github.com/hyeonsumo/ieee-cis-fraud-detection-pjt) | EDA and modeling of IEEE-CIS dataset (Kaggle) | Jupyter Notebook, Python |
+
+## Forked / Practice
+| Repo | Description |
+|---|---|
+| [opencv](https://github.com/hyeonsumo/opencv) | Open Source Computer Vision Library (fork) |
 
 ## GitHub Analytics
 <div align="center">
