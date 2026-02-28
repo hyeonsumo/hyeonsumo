@@ -2,10 +2,11 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:1C227A,100:1C227A&height=220&section=header&text=Hyeonsu%20Mo&fontSize=48&fontColor=F0B338&animation=fadeIn&fontAlignY=38&desc=Backend%20%7C%20Data%20Engineering%20%7C%20Automation&descAlignY=58&descColor=F7D37A)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=2800&pause=900&color=1C227A&center=true&vCenter=true&width=650&lines=Building+useful+things+with+code;Backend+and+Data+focused+developer;Always+improving+through+projects)](https://git.io/typing-svg)
-
 <h3>Hi, I'm Hyeonsu Mo.</h3>
-<p>I am working toward becoming a full-stack data analyst.</p>
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=2800&pause=999999&color=1C227A&center=true&vCenter=true&width=560&lines=I+am+working+toward+becoming+a+full-stack" alt="typing navy"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&duration=2800&pause=999999&color=F0B338&center=true&vCenter=true&width=220&lines=data+analyst." alt="typing gold"/>
+</p>
 
 </div>
 
