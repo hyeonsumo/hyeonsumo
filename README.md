@@ -6,12 +6,6 @@
 
 </div>
 
-## About Me
-- Name: **Hyeonsu Mo (모현수)**
-- Focus: **Backend / Data Engineering / Automation**
-- Goal: **실무형 포트폴리오 고도화 + 꾸준한 오픈소스/프로젝트 기록**
-- GitHub: **https://github.com/hyeonsumo**
-
 ## Skill Stack
 Language to engineering: end-to-end data analysis stack.
 
