@@ -1,9 +1,11 @@
 ﻿<div align="center">
 
-<h3>Hi, I'm Hyeonsu Mo.</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3200&pause=2600&color=1C227A&center=true&vCenter=true&width=900&repeat=true&lines=I'm+studying+toward+becoming+a+full-stack+data+analyst." alt="typing intro"/>
+<br/>
 <img src="./assets/download.gif" width="760" alt="working gif" />
 <br/>
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3200&pause=900&color=1C227A&center=true&vCenter=true&width=900&lines=I'm+studying+toward+becoming+a+full-stack+data+analyst." alt="typing intro"/>
+<h3>Hi, I'm Hyeonsu Mo.</h3>
+<p>📚 최근에는 블로그 운영 위주로 하면서 다양한 이론과 툴을 중심으로 공부하고 있습니다.</p>
 
 </div>
 
@@ -42,3 +44,4 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
