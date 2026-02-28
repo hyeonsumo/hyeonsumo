@@ -1,6 +1,7 @@
 ﻿<div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3200&pause=2600&color=1C227A&center=true&vCenter=true&width=900&repeat=true&lines=I'm+studying+toward+becoming+a+full-stack+data+analyst." alt="typing intro"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3200&pause=2600&color=1C227A&center=true&vCenter=true&width=650&repeat=true&lines=I'm+studying+toward+becoming+a+full-stack+" alt="typing intro navy"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&duration=3200&pause=2600&color=F0B338&center=true&vCenter=true&width=260&repeat=true&lines=Data+Analyst." alt="typing intro gold"/>
 <br/>
 <img src="./assets/download.gif" width="760" alt="working gif" />
 <br/>
@@ -10,6 +11,7 @@
   <a href="https://datastudywithmomo.tistory.com/"><img src="https://img.shields.io/badge/Tistory-datastudywithmomo-F15A24?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory"/></a>
   <a href="mailto:grmo84083370@gmail.com"><img src="https://img.shields.io/badge/Gmail-grmo84083370%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
+<br/><br/>
 
 </div>
 
