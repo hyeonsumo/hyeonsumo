@@ -43,8 +43,28 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ## 📁 Projects
-| Project | Description | Language |
-|---|---|---|
-| [hyeonsumo](https://github.com/hyeonsumo/hyeonsumo) ![Public](https://img.shields.io/badge/Public-lightgrey?style=flat-square) | hyeonsumo's portfolio | Markdown |
-| [ieee-cis-fraud-detection-pjt](https://github.com/hyeonsumo/ieee-cis-fraud-detection-pjt) ![Public](https://img.shields.io/badge/Public-lightgrey?style=flat-square) | EDA and modeling of IEEE-CIS dataset (Kaggle) | Jupyter Notebook |
-| [opencv](https://github.com/hyeonsumo/opencv) ![Public](https://img.shields.io/badge/Public-lightgrey?style=flat-square) | Open Source Computer Vision Library (fork) | - |
+<table>
+  <tr>
+    <td width="50%">
+      🖥️ <a href="https://github.com/hyeonsumo/hyeonsumo"><b>hyeonsumo</b></a>
+      <img src="https://img.shields.io/badge/Public-lightgrey?style=flat-square" alt="Public"/><br/>
+      hyeonsumo's portfolio<br/><br/>
+      🔵 Markdown
+    </td>
+    <td width="50%">
+      🖥️ <a href="https://github.com/hyeonsumo/ieee-cis-fraud-detection-pjt"><b>ieee-cis-fraud-detection-pjt</b></a>
+      <img src="https://img.shields.io/badge/Public-lightgrey?style=flat-square" alt="Public"/><br/>
+      EDA and modeling of IEEE-CIS dataset (Kaggle)<br/><br/>
+      🔵 Jupyter Notebook
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      🖥️ <a href="https://github.com/hyeonsumo/opencv"><b>opencv</b></a>
+      <img src="https://img.shields.io/badge/Public-lightgrey?style=flat-square" alt="Public"/><br/>
+      Open Source Computer Vision Library (fork)<br/><br/>
+      🔵 -
+    </td>
+    <td width="50%"></td>
+  </tr>
+</table>
