@@ -14,15 +14,15 @@
 
 ## Tech Stack
 ### Languages
-![Python](https://img.shields.io/badge/Python-1C227A?style=for-the-badge&logo=python&logoColor=F0B338)
-![JavaScript](https://img.shields.io/badge/JavaScript-1C227A?style=for-the-badge&logo=javascript&logoColor=F0B338)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
 
 ### Backend / Data
-![FastAPI](https://img.shields.io/badge/FastAPI-1C227A?style=for-the-badge&logo=fastapi&logoColor=F0B338)
-![Node.js](https://img.shields.io/badge/Node.js-1C227A?style=for-the-badge&logo=nodedotjs&logoColor=F0B338)
-![MySQL](https://img.shields.io/badge/MySQL-1C227A?style=for-the-badge&logo=mysql&logoColor=F0B338)
-![Docker](https://img.shields.io/badge/Docker-1C227A?style=for-the-badge&logo=docker&logoColor=F0B338)
-![Git](https://img.shields.io/badge/Git-1C227A?style=for-the-badge&logo=git&logoColor=F0B338)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## Featured Projects
 | Project | Description | Tech |
@@ -47,9 +47,9 @@
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hyeonsumo&bg_color=ffffff&color=1C227A&line=F0B338&point=1C227A&area=true&area_color=F8E3A4&hide_border=true)
 
 ## Contact
-[![Gmail](https://img.shields.io/badge/Gmail-1C227A?style=for-the-badge&logo=gmail&logoColor=F0B338)](mailto:grmo84083370@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-1C227A?style=for-the-badge&logo=github&logoColor=F0B338)](https://github.com/hyeonsumo)
-[![Tistory](https://img.shields.io/badge/Tistory-1C227A?style=for-the-badge&logo=tistory&logoColor=F0B338)](https://datastudywithmomo.tistory.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:grmo84083370@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hyeonsumo)
+[![Tistory](https://img.shields.io/badge/Tistory-F15A24?style=for-the-badge&logo=tistory&logoColor=white)](https://datastudywithmomo.tistory.com/)
 
 ---
 
