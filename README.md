@@ -4,6 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=2800&pause=900&color=1C227A&center=true&vCenter=true&width=650&lines=Building+useful+things+with+code;Backend+and+Data+focused+developer;Always+improving+through+projects)](https://git.io/typing-svg)
 
+<h3>Hi, I'm Hyeonsu Mo.</h3>
+<p>I am working toward becoming a full-stack data analyst.</p>
+
 </div>
 
 ## 🧰 Tech Stack
