@@ -1,40 +1,57 @@
-﻿# Hi, I'm Hyeonsu Mo 👋
+﻿<div align="center">
 
-백엔드와 데이터 중심으로 문제를 해결하는 개발자입니다.
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Hyeonsu%20Mo&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%7C%20Data%20Engineering%20%7C%20Automation&descAlignY=58)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=2800&pause=900&color=1F6FEB&center=true&vCenter=true&width=650&lines=Building+useful+things+with+code;Backend+and+Data+focused+developer;Always+improving+through+projects)](https://git.io/typing-svg)
+
+</div>
 
 ## About Me
-- 이름: 모현수
-- GitHub: https://github.com/hyeonsumo
-- 관심 분야: Backend, Data Engineering, Automation
-- 현재 목표: 실무형 포트폴리오와 기술 블로그 고도화
+- Name: **Hyeonsu Mo (모현수)**
+- Focus: **Backend / Data Engineering / Automation**
+- Goal: **실무형 포트폴리오 고도화 + 꾸준한 오픈소스/프로젝트 기록**
+- GitHub: **https://github.com/hyeonsumo**
 
 ## Tech Stack
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
 
-### Backend / DB
+### Backend / Data
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## Featured Projects
-- [project-1](https://github.com/hyeonsumo/project-1): 문제 해결 중심 프로젝트 설명을 한 줄로 작성
-- [project-2](https://github.com/hyeonsumo/project-2): 사용 기술과 성과가 드러나는 설명 작성
-- [project-3](https://github.com/hyeonsumo/project-3): 트래픽/자동화/분석 등 임팩트 중심 설명
+| Project | Description | Tech |
+|---|---|---|
+| [project-1](https://github.com/hyeonsumo/project-1) | 문제를 정의하고 실제 사용 가능한 결과물로 만든 프로젝트 | Python, FastAPI |
+| [project-2](https://github.com/hyeonsumo/project-2) | 자동화/데이터 파이프라인 중심 프로젝트 | Python, MySQL, Docker |
+| [project-3](https://github.com/hyeonsumo/project-3) | 서비스 운영 관점(성능/안정성) 개선 프로젝트 | Node.js, SQL |
 
-## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonsumo&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonsumo&layout=compact)
+## GitHub Analytics
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyeonsumo&show_icons=true&theme=transparent&hide_border=true&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonsumo&layout=compact&theme=transparent&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=hyeonsumo&theme=transparent&hide_border=true)
+
+</div>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hyeonsumo&theme=github-compact&hide_border=true)
 
 ## Contact
-- Email: grmo84083370@gmail.com
-- Blog: 링크 추가
-- LinkedIn: 링크 추가
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:grmo84083370@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hyeonsumo)
+[![Blog](https://img.shields.io/badge/Blog-12100E?style=for-the-badge&logo=githubpages&logoColor=white)](https://github.com/hyeonsumo)
 
 ---
-원하는 포지션(백엔드/데이터/AI)에 맞게 섹션을 더 세분화해 계속 업데이트할 예정입니다.
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=130&section=footer)
+
+</div>
