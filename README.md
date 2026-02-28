@@ -1,8 +1,8 @@
 ﻿<div align="center">
 
 <p style="white-space: nowrap; margin: 0;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3200&pause=2600&color=1C227A&center=true&vCenter=true&width=620&repeat=true&lines=I'm+studying+toward+becoming+a+full-stack+" alt="typing intro navy"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&duration=3200&pause=2600&color=F0B338&center=true&vCenter=true&width=220&repeat=true&lines=Data+Analyst." alt="typing intro gold"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3200&pause=2600&color=1C227A&center=true&vCenter=true&width=590&repeat=true&lines=I'm+studying+toward+becoming+a+full-stack+" alt="typing intro navy"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&duration=3200&pause=2600&color=F0B338&center=true&vCenter=true&width=205&repeat=true&lines=Data+Analyst." alt="typing intro gold" style="margin-left: -10px;"/>
 </p>
 <br/>
 <img src="./assets/download.gif" width="760" alt="working gif" />
