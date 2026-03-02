@@ -10,8 +10,8 @@
 <h3>Hi, I'm Hyeonsu Mo.</h3>
 <p>📚 최근에는 블로그 운영 위주로 하면서 다양한 이론과 툴을 중심으로 공부하고 있습니다.</p>
 <p>
-  <a href="https://datastudywithmomo.tistory.com/"><img src="https://img.shields.io/badge/Tistory-datastudywithmomo-F15A24?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory"/></a>
-  <a href="mailto:grmo84083370@gmail.com"><img src="https://img.shields.io/badge/Gmail-grmo84083370%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://datastudywithmomo.tistory.com/"><img src="https://img.shields.io/badge/Blog-Tistory-F15A24?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory"/></a>
+  <a href="mailto:grmo84083370@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
 <br/><br/>
 
